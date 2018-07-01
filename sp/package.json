@@ -1,0 +1,12 @@
+{
+  "name": "wp-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "co": "^4.6.0",
+    "connect-mongo": "^2.0.1",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "wafer-node-session": "^1.0.10",
+    "ws": "^5.0.0"
+  }
+}
